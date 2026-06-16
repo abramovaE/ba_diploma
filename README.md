@@ -22,7 +22,7 @@ Business Analyst Diploma Project
 ---
 
 ##  Структура репозитория
-
+```
 ├── README.md
 └── diploma_project/
     ├── 01_Отчёт_об_обследовании.pdf
@@ -35,7 +35,7 @@ Business Analyst Diploma Project
     ├── 08_Прототип_решения.pdf
     ├── 09_Пользовательская_инструкция.pdf
     └── 10_Ссылки.md
-
+```
 ---
 
 ##  Что в итоге
